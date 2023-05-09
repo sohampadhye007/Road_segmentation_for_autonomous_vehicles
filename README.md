@@ -28,7 +28,8 @@ camera and annotated using Roboflow.<br>
 Ensure that you have access to a GPU. To do this, run the nvidia-smi command. If you encounter any issues, navigate to Edit -> Notebook settings -> Hardware accelerator, set it to GPU, and then click Save.
 Install yolov8 using pip.
 To train a custom model, use the following command:<br> 
-!yolo task=segment mode=predict model={HOME}/runs/segment/train/weights/best.pt conf=0.25 source={dataset.location}/test/images save=true
+`!yolo task=segment mode=predict model={HOME}/runs/segment/train/weights/best.pt conf=0.25 source={dataset.location}/test/images save=true`
+
 
 Replace {dataset.location} with the location of your dataset.<br>
 Finally, validate the model and then run inference on your custom model using the following command:<br>
