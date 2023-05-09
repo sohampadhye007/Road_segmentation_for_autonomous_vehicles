@@ -35,8 +35,9 @@ Finally, validate the model and then run inference on your custom model using th
 # Demonstration of Instance segmentation
 
 
+<div >
   <img
-    width="200" autoplay loop
+    width="200"
     src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80"
   >
 </div>
