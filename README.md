@@ -19,17 +19,20 @@ Instance segmentation is the process of detecting and segmenting each instance o
 # Training and testing modes <br>
 
 # Custom Dataset heart of the repository (IITJ_RoadSeg)
-We have captured the images of <b>Indian road, off road images and low light images of the road<b> . Dataset has around 1000+ images with their correspponding segmentation mask.
+We have captured the images of Indian road, off road images and low light images of the road . Dataset has around 1000+ images with their correspponding segmentation mask.
 The custom dataset consists of images and annotations in the COCO format. The images were captured by smartphone 
 camera and annotated using Roboflow.<br>
 
 # How to annotate the image using roboflow and create the segmentation mask
 Ensure that you have access to a GPU. To do this, run the nvidia-smi command. If you encounter any issues, navigate to Edit -> Notebook settings -> Hardware accelerator, set it to GPU, and then click Save.
-Install yolov8 using pip
-To train a custom model, use the following command: 
+Install yolov8 using pip.
+To train a custom model, use the following command:<br> 
+<br>
 !yolo task=segment mode=train model=yolov8m-seg.pt data={dataset.location}/data.yaml epochs=100 imgsz=640 lr0=0.0001
-Replace {dataset.location} with the location of your dataset.
- Finally, validate the model and then run inference on your custom model using the following command:
+<br>
+Replace {dataset.location} with the location of your dataset.<br>
+Finally, validate the model and then run inference on your custom model using the following command:<br>
+
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
