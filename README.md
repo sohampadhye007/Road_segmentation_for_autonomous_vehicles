@@ -18,7 +18,7 @@ Instance segmentation is the process of detecting and segmenting each instance o
 
 # Training and testing modes <br>
 
-# Custom Dataset heart of the repository (IITJ_RoadSeg) <br> 
+# Custom Dataset heart of the repository (IITJ_RoadSeg) <br> <font face="Lobster">Lobster</font> font.
 The custom dataset consists of images and annotations in the COCO format. The images were captured by smartphone 
 camera and annotated using Roboflow. The annotations include the bounding boxes and segmentation masks for the objects in the images. <br>
 
