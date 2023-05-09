@@ -6,7 +6,7 @@ Sementic segmentation and instance segmentation of road for the application of a
 ![InShot_20230508_020557928](https://user-images.githubusercontent.com/119999424/236701623-e57ce157-f2f7-43c4-b3b3-9ce3c6b5e95d.gif)
 
 # Introduction
-This project demonstrates how to perform semantic segmentation and instance segmentation on the KITTI dataset using the UNet and YOLOv8 architectures respectively. The KITTI dataset is a popular benchmark for object detection, segmentation, and tracking in autonomous driving scenarios.
+This project demonstrates how to perform semantic segmentation and instance segmentation on the KITTI dataset using the UNet and YOLOv8 architectures respectively. The KITTI dataset is a popular benchmark for object detection, segmentation, and tracking in autonomous driving scenarios..
 
 # Semantic Segmentation using UNet
 Semantic segmentation is the process of classifying each pixel in an image into one of several predefined categories. In this project, we use the UNet architecture for semantic segmentation on the KITTI dataset. UNet is a fully convolutional neural network that is widely used for image segmentation tasks. We train the model on the KITTI dataset to predict 11 semantic classes.
