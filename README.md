@@ -22,6 +22,8 @@ The custom dataset consists of images and annotations in the COCO format. The im
 camera and annotated using Roboflow.<br>
 
 # How to annotate the image using roboflow and create the segmentation mask
+![InShot_20230510_015904958](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/b7d60ad4-3363-46b4-82a5-3fc903879645)
+
 
 # Procedure to run iinstance segmentation file on colab
 
