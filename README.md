@@ -6,6 +6,7 @@ Sementic segmentation and instance segmentation of road for the application of a
 This repository serves as a Semantic Segmentation Suite. The goal is to easily be able to implement, train, and test new Semantic Segmentation models! Complete with the following: <br> 
 
 # Training and testing modes <br>
+
 # Data augmentation <br>
 Several state-of-the-art models. Easily plug and play with different models
 Able to use any dataset <br>
