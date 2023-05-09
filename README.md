@@ -36,6 +36,13 @@ Finally, validate the model and then run inference on your custom model using th
 
 ![InShot_20230508_020557928](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80)
 
+<div align="center">
+  <img
+    width="640"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80"
+  >
+</div>
+
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
