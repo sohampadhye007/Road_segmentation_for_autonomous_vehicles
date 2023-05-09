@@ -23,7 +23,7 @@ camera and annotated using Roboflow.<br>
 
 # How to annotate the image using roboflow and create the segmentation mask
 
-# Procedure to run the colab file
+# Procedure to run iinstance segmentation file on colab
 
 Ensure that you have access to a GPU. To do this, run the nvidia-smi command. If you encounter any issues, navigate to Edit -> Notebook settings -> Hardware accelerator, set it to GPU, and then click Save.
 Install yolov8 using pip.
