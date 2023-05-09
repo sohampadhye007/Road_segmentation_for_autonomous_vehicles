@@ -18,9 +18,12 @@ Instance segmentation is the process of detecting and segmenting each instance o
 
 # Training and testing modes <br>
 
-# Dataset <br> 
+# Custom Dataset heart of the repository (IIT-Jodhpur) <br> 
 The custom dataset consists of images and annotations in the COCO format. The images were captured by smartphone 
 camera and annotated using Roboflow. The annotations include the bounding boxes and segmentation masks for the objects in the images. <br>
+
+# How to annotate the image using roboflow and create the segmentation mask
+
 
 # Training <br>
 The YOLOv8 model was trained using the Darknet framework. The training process involved the following steps: <br>
