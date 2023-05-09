@@ -19,7 +19,7 @@ Instance segmentation is the process of detecting and segmenting each instance o
 # Training and testing modes <br>
 
 # Custom Dataset heart of the repository (IITJ_RoadSeg)
-We have captured the images of <b>Indian road, off road images and low light images of the road<b>.  Dataset has around 1000+ images with their correspponding segmentation mask.
+We have captured the images of <b>Indian road, off road images and low light images of the road<b> . Dataset has around 1000+ images with their correspponding segmentation mask.
 The custom dataset consists of images and annotations in the COCO format. The images were captured by smartphone 
 camera and annotated using Roboflow.<br>
 
