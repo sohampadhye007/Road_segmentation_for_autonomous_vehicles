@@ -4,7 +4,7 @@ Sementic segmentation and instance segmentation of road for the application of a
 
 # Demonstration of Instance segmentation
 
-![InShot_20230508_020557928](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80)
+<video src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80" controls loop></video>
 
 # Introduction
 This project demonstrates how to perform semantic segmentation and instance segmentation on the KITTI dataset using the UNet and YOLOv8 architectures respectively. The KITTI dataset is a popular benchmark for object detection, segmentation, and tracking in autonomous driving scenarios..
