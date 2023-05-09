@@ -39,10 +39,10 @@ Finally, validate the model and then run inference on your custom model using th
 To use this project, you will need to install the following dependencies: <br>
 
 `Python 3.6 or higher
-Darknet framework
-OpenCV 
-Numpy
-Usage`
+* Darknet framework
+* OpenCV 
+* Numpy
+* PyTorch`
 
 ## Related
 
