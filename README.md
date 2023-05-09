@@ -38,12 +38,28 @@ Finally, validate the model and then run inference on your custom model using th
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
-Python 3.6 or higher <br>
+`Python 3.6 or higher <br>
 Darknet framework <br>
 OpenCV <br>
 Numpy <br>
-Usage <br>
+Usage <br>`
 
+## Related
+
+Here are some related projects
+
+(\https://www.kaggle.com/code/hossamemamo/kitti-road-segmentation-pytorch-unet-from-scratch)
+
+
+## Authors
+
+- [@sohampadhye007](https://github.com/sohampadhye007)
+- [@karansspk](https://github.com/karansspk)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at sohampadhye1998@gmail.com, karansspk@gmail.com
 
 
 
