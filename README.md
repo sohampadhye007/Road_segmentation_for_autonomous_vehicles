@@ -44,14 +44,6 @@ OpenCV <br>
 Numpy <br>
 Usage <br>
 
-# To train the YOLOv8 model on your own custom dataset, follow these steps:
-
-Create a Roboflow account and upload your dataset.
-Generate the YOLO annotations and download the dataset.
-Clone this repository and modify the Darknet configuration file to suit your needs.
-Download the pre-trained weights for the YOLOv8 model.
-Train the model on the custom dataset using the darknet command line tool.
-Evaluate the model performance using the darknet tool.
 
 
 
