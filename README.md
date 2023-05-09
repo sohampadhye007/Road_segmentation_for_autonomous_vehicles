@@ -24,23 +24,12 @@ The custom dataset consists of images and annotations in the COCO format. The im
 camera and annotated using Roboflow.<br>
 
 # How to annotate the image using roboflow and create the segmentation mask
-
-
-# Training <br>
-The YOLOv8 model was trained using the Darknet framework. The training process involved the following steps: <br>
-
-Conversion of the dataset to the YOLO format using Roboflow. <br>
-Configuration of the model architecture and hyperparameters in the Darknet configuration file. <br>
-Downloading pre-trained weights for the model. <br>
-Training the model on the custom dataset using the darknet command line tool. <br>
-
-# Inference <br>
-The trained model can be used to perform instance segmentation on new images. The inference process involves the following steps: <br>
-
-Loading the trained weights into the YOLOv8 model. <br>
-Running the model on new images to generate predictions. <br>
-
-
+Ensure that you have access to a GPU. To do this, run the nvidia-smi command. If you encounter any issues, navigate to Edit -> Notebook settings -> Hardware accelerator, set it to GPU, and then click Save.
+Install yolov8 using pip
+To train a custom model, use the following command: 
+!yolo task=segment mode=train model=yolov8m-seg.pt data={dataset.location}/data.yaml epochs=100 imgsz=640 lr0=0.0001
+Replace {dataset.location} with the location of your dataset.
+ Finally, validate the model and then run inference on your custom model using the following command:
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
