@@ -117,6 +117,9 @@ It is also a good model
   >
 </div>
 
+## Documentation
+
+[Project report](https://drive.google.com/file/d/1S2pPu54Okg0KBayQGZExe7GtiQb6wHWC/view?usp=share_link)
 
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
