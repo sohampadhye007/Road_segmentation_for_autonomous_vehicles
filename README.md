@@ -16,10 +16,22 @@ Resullt of KNN algorithm on simple road image
 
 
 Resullt of GMM algorithm on simple road image
-![gmm](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/29ca13a5-ea42-47f2-9250-e76cd1d01146)
+
+<div >
+  <img
+    width="200"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/29ca13a5-ea42-47f2-9250-e76cd1d01146"
+  >
+</div>
 
 Resullt of GMM algorithm on actual road image
-![road_u](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/0443472d-e7c9-4974-b4a0-b37bd9929c05)
+<div >
+  <img
+    width="200"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/0443472d-e7c9-4974-b4a0-b37bd9929c05"
+  >
+</div>
+
 
 As you can see it can able to segment the road from simple image it can not segment the road, person and other objects like sky, car etc.
 
@@ -70,7 +82,7 @@ Replace {dataset.location} with the location of your dataset.<br>
 
 # 2.Using UNet for sementic segmentation
 
-We are performing semantic segmentation on images captured from a smartphone at IIT Jodhpur College. The dataset used for this project is a custom one prepared specifically for this purpose. It contains the image and its corresponding ground-truth mask in .jpg or .png format.To perform the semantic segmentation, the U-Net architecture is being utilized. This project aims to achieve accurate semantic segmentation of the custonm images captured from the smartphone using the U-Net architecture. This will involve training the model on the custom dataset and optimizing the parameters to achieve the best possible performance. The results of the project can be used in various applications such as scene understanding, autonomous vehicles, and medical image analysis
+We are performing semantic segmentation on images captured from a smartphone at IIT Jodhpur College. The dataset used for this project is a custom one prepared specifically for this purpose. It contains the image and its corresponding ground-truth mask in .jpg or .png format.To perform the semantic segmentation, the U-Net architecture is being utilized. This project aims to achieve accurate semantic segmentation of the custonm images captured from the smartphone using the U-Net architecture. This will involve training the model on the custom dataset and optimizing the parameters to achieve the best possible performance. The results of the project can be used in various applications such as scene understanding, autonomous vehicles, and medical image analysis. To run this model use `UNET_CustomDataset.py` file.
 
 Procedure for creating the custom dataset is same. This time the difference is we are downloading the .zip file of the data. Then import this data in the code and perform the sementic segmentation task.
 
