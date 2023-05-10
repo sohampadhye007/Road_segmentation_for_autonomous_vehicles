@@ -5,6 +5,9 @@ Sementic segmentation and instance segmentation of off road, Indian road and roa
 This project demonstrates how to perform semantic segmentation custom road dataset named IITJ_RoadSeg using the UNet and instance segmentation on the YOLOv8 architectures on same custom dataset. Also it describs about some basic computer vision technique like Kmeans and GMM.
 
 # sementic segmantation using KNN and GMM
+The K-means algorithm is used for road segmentation because it is a simple and effective unsupervised learning method that can automatically cluster image pixels into different groups based on their similarity in terms of color, texture, and other features. The algorithm works by randomly selecting K centroids (representative points) and then iteratively assigning each pixel in the image to the nearest centroid and updating the centroid's position based on the mean of the assigned pixels. The process is repeated until convergence is achieved or a stopping criterion is met.
+
+A Gaussian mixture model is a probabilistic model that represents the distribution of the image pixels as a weighted sum of Gaussian distributions. In road segmentation, the Gaussian mixture model is used to model the distribution of pixels belonging to the road and non-road regions in the image.
 
 Resullt of KNN algorithm on simple road image
 <div >
@@ -101,6 +104,10 @@ Average loss = 0.03
 # 3.Using Detectron2 for instance segmentation
 we have also used the Detectron architecture proposed by MetaAi for instance.
 It is also a good model
+
+# Results from Detectron2 model on instance segmentaion
+
+
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
