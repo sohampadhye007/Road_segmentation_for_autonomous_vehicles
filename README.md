@@ -100,7 +100,7 @@ Procedure for creating the custom dataset is same. This time the difference is w
 Average loss = 0.03<br>
 <div >
   <img
-    width="200"
+    width="350"
     src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/f0437778-df95-4ba2-8a78-54d0ac516025"
   >
 </div>
