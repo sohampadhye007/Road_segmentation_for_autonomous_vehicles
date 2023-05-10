@@ -97,7 +97,7 @@ Procedure for creating the custom dataset is same. This time the difference is w
 ![Figure_9](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/ef528542-b98a-47cb-8785-7a28d3a5db58)
 
 # Plot loss vs. No. of epochs
-Average loss = 0.03
+Average loss = 0.03<br>
 ![Figure_10](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/f0437778-df95-4ba2-8a78-54d0ac516025)
 
 
