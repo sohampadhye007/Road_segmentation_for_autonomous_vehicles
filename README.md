@@ -7,7 +7,13 @@ This project demonstrates how to perform semantic segmentation custom road datas
 # sementic segmantation using KNN and GMM
 
 Resullt of KNN algorithm on simple road image
-![road](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/04329c77-1f2b-4a5a-85f5-ec2c26020659)
+<div >
+  <img
+    width="200"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/04329c77-1f2b-4a5a-85f5-ec2c26020659"
+  >
+</div>
+
 
 Resullt of GMM algorithm on simple road image
 ![gmm](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/29ca13a5-ea42-47f2-9250-e76cd1d01146)
