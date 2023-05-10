@@ -42,6 +42,10 @@ Finally, validate the model and then run inference on your custom model using th
   >
 </div>
 
+# Performance 
+![image](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/7b466850-839b-40d4-9a73-d486fce39cf6)
+
+
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
