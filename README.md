@@ -44,7 +44,7 @@ Semantic segmentation is the process of classifying each pixel in an image into 
 Instance segmentation is the process of detecting and segmenting each instance of an object in an image. In this project, we use the YOLOv8 architecture for instance segmentation on custom datset. YOLOv8 is an extension of the YOLO (You Only Look Once) object detection algorithm, which can also output segmentation masks for each detected object. We train the model on the custom datset that we have collected in IIT Jodhpur campus to detect and segment roads that is very important for Autonomous vehicles.
 
 # 1.Using yolov8 for instance segmentation
-# Custom Dataset -The heart of the repository (IITJ_RoadSeg)
+# Custom Dataset (IITJ_RoadSeg) -The heart of the repository 
 We have captured the images of Indian road, off road images and low light images of the road . Dataset has around 1000+ images with their correspponding segmentation mask. We also have created the binary groundtruth mask `(.png)` for the annoted image which is required for running the model based on UNet architechure.
 The custom dataset is also availabe in the COCO format. The images were captured by smartphone 
 camera and annotated using Roboflow. If you need the dataset then mail us on the mail id provided below.<br>
