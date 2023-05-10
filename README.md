@@ -106,6 +106,12 @@ we have also used the Detectron architecture proposed by MetaAi for instance.
 It is also a good model
 
 # Results from Detectron2 model on instance segmentaion
+<div >
+  <img
+    width="250"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/6cc5e1c5-9dea-45d7-b40c-1ce3c5b988a4"
+  >
+</div>
 
 
 # Installation <br>
