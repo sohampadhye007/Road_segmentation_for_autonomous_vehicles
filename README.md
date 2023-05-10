@@ -98,8 +98,12 @@ Procedure for creating the custom dataset is same. This time the difference is w
 
 # Plot loss vs. No. of epochs
 Average loss = 0.03<br>
-![Figure_10](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/f0437778-df95-4ba2-8a78-54d0ac516025)
-
+<div >
+  <img
+    width="200"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/f0437778-df95-4ba2-8a78-54d0ac516025"
+  >
+</div>
 
 # 3.Using Detectron2 for instance segmentation
 we have also used the Detectron architecture proposed by MetaAi for instance.
