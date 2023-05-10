@@ -1,5 +1,5 @@
 # Road_segmentation_for_autonomous_vehicles
-Sementic segmentation and instance segmentation of road for the application of autonomous vehicles
+Sementic segmentation and instance segmentation of off road, Indian road and road in low light condition for the application of autonomous vehicles
 
 # Introduction
 This project demonstrates how to perform semantic segmentation custom road dataset named IITJ_RoadSeg using the UNet and instance segmentation on the YOLOv8 architectures on same custom dataset. Also it describs about some basic computer vision technique like Kmeans and GMM.
@@ -69,7 +69,7 @@ To train a custom model, use the following command:<br>
 Replace {dataset.location} with the location of your dataset.<br>
 
 # Demonstration of Instance segmentation
-
+## mAP50=0.908
 <div >
   <img
     width="400"
@@ -94,9 +94,13 @@ Procedure for creating the custom dataset is same. This time the difference is w
 ![Figure_9](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/ef528542-b98a-47cb-8785-7a28d3a5db58)
 
 # Plot loss vs. No. of epochs
+Average loss = 0.03
 ![Figure_10](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/f0437778-df95-4ba2-8a78-54d0ac516025)
 
 
+# 3.Using Detectron2 for instance segmentation
+we have also used the Detectron architecture proposed by MetaAi for instance.
+It is also a good model
 # Installation <br>
 To use this project, you will need to install the following dependencies: <br>
 
