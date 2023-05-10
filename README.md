@@ -2,7 +2,7 @@
 Sementic segmentation and instance segmentation of road for the application of autonomous vehicles
 
 # Introduction
-This project demonstrates how to perform semantic segmentation custom road dataset named IITJ_RoadSeg using the UNet and instance segmentation on the YOLOv8 architectures on same custom dataset.
+This project demonstrates how to perform semantic segmentation custom road dataset named IITJ_RoadSeg using the UNet and instance segmentation on the YOLOv8 architectures on same custom dataset. Also it describs about some basic computer vision technique like Kmeans and GMM.
 
 # Semantic Segmentation using UNet
 Semantic segmentation is the process of classifying each pixel in an image into one of several predefined categories. In this project, we use the UNet architecture for semantic segmentation on the IITJ_RoadSeg dataset. UNet is a fully convolutional neural network that is widely used for image segmentation tasks. We train the model on the IITJ_RoadSeg dataset to predict 2 semantic classes.
