@@ -77,7 +77,6 @@ https://roboflow.com/
 
 If you have any feedback, please reach out to us at sohampadhye1998@gmail.com, karansspk@gmail.com
 
-![Notes_230430_203436_2](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/a750d2ca-5443-4963-b7d7-5a3a3df46214)
 
 
 
