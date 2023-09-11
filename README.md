@@ -54,7 +54,7 @@ camera and annotated using Roboflow. If you need the dataset then mail us on the
 
 
 # How to annotate the image using roboflow and create the segmentation mask
-![InShot_20230510_015904958](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/b7d60ad4-3363-46b4-82a5-3fc903879645)
+![InShot_20230510_015904958](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/blob/main/demo.gif)
 
 # Sample of annoted image
 ![um_000004](https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/8812128e-3e92-4457-ac0a-bb4bb7af74b8)
