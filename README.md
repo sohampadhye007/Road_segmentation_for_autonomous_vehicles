@@ -13,7 +13,7 @@ Resullt of KNN algorithm on simple road image
 <div >
   <img
     width="200"
-    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/04329c77-1f2b-4a5a-85f5-ec2c26020659"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/blob/main/k_means_result.png"
   >
 </div>
 
@@ -76,7 +76,7 @@ Replace {dataset.location} with the location of your dataset.<br>
 <div >
   <img
     width="400"
-    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/97f1d9fb-0a70-4320-990a-7191620c9b80"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/blob/main/yolo_result.png"
   >
 </div>
 
@@ -113,7 +113,7 @@ It is also a good model
 <div >
   <img
     width="250"
-    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/assets/119999424/6cc5e1c5-9dea-45d7-b40c-1ce3c5b988a4"
+    src="https://github.com/sohampadhye007/Road_segmentation_for_autonomous_vehicles/blob/main/detectron_result.png"
   >
 </div>
 
