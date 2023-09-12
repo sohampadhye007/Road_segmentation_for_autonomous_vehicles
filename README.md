@@ -41,7 +41,7 @@ As you can see it can able to segment the road from simple image it can not segm
 So we will go for neural network based approach to solve the problem
 
 # Semantic Segmentation using UNet
-Semantic segmentation is the process of classifying each pixel in an image into one of several predefined categories. In this project, we use the UNet architecture for semantic segmentation on the IITJ_RoadSeg dataset. UNet is a fully convolutional neural network that is widely used for image segmentation tasks. We train the model on the IITJ_RoadSeg dataset to predict 2 semantic classes.
+Semantic segmentation is the process of classifying each pixel in an image into one of several predefined categories. In this project, we use the UNet architecture for semantic segmentation on the IITJRoadSeg dataset. UNet is a fully convolutional neural network that is widely used for image segmentation tasks. We train the model on the IITJ_RoadSeg dataset to predict 2 semantic classes.
 
 # Instance Segmentation using YOLOv8
 Instance segmentation is the process of detecting and segmenting each instance of an object in an image. In this project, we use the YOLOv8 architecture for instance segmentation on custom datset. YOLOv8 is an extension of the YOLO (You Only Look Once) object detection algorithm, which can also output segmentation masks for each detected object. We train the model on the custom datset that we have collected in IIT Jodhpur campus to detect and segment roads that is very important for Autonomous vehicles.
